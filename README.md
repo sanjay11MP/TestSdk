@@ -29,5 +29,6 @@ Add Like :
 ```
 TrackLib.getInstance().serverKey(serverKey);
 ```
-your Server Key Stored in as Image shown 
+Make Sure Your Server Key Must be : 
+
 ![serverkey](https://github.com/sanjay11MP/TestSdk/blob/newsdk/app/src/main/res/drawable/server_key.png)
